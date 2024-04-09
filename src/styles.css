@@ -1,0 +1,14 @@
+
+@import 'tailwindcss/base';
+/* @import 'tailwindcss/components'; */
+@import 'tailwindcss/utilities';
+
+@font-face {
+    font-family: gt-super;
+    src: url('./Fonts/gt-super-400-normal.ttf');
+}
+
+h1{
+    font-family: 'GT Super Text Book';
+    font-weight: 400;
+}

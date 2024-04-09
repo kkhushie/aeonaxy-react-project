@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Sohne';
+    src: url('./Fonts/gt-super-400-normal.ttf') format('ttf');
+}
+*{
+    font-family: Sohne;
+}

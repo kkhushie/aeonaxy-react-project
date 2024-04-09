@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sohne';
+    src: url('./Fonts/sohne-400-normal.woff') format('woff');
+}
+*{
+    font-family: Sohne;
+    background: red;
+}
